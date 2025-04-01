@@ -1,5 +1,4 @@
-## Hi there 👋
-
+I'm currently working on a DPhil at the University of Oxford into pandemic preparedness, focusing on non-pharmaceutical interventions and the interaction between government policy and research. Reach me on toby.bonvoisin [at] gtc.ox.ac.uk
 <!--
 **tobybon/tobybon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
